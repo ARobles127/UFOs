@@ -13,6 +13,7 @@ We aim to give access to an  interactive and easy to operate website that will h
 
 Initially the website displayed information clicking one single button, users were only able to search results based on any random data. Now, the redesigned website allows users to search criteria based on four more elements, city, state, country, and shape, as well as use the home button to reload the website. 
 
+#### Link to UFO Sightings: https://arobles127.github.io/UFOs/ 
 
 #### Home Button
 
